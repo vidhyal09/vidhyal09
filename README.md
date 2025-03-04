@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm VIDHYA L</h1>
 <h3 align="center">A passionate in programming,web devoploper from India developer from India</h3>
 
-<p align="left"> <img src="https://www.freepik.com/premium-ai-image/vector-illustration-showing-female-software-engineer_303852718.htm" alt="vidhyal09" /> </p>
+<p align="left"> <img src=" alt="vidhyal09" /> </p>
 
 - I'm currently learning **Java**
 
